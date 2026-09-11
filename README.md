@@ -80,7 +80,7 @@ Developer1.SendSMS("Hi mr Developer :-)");
 
 ## Output
 
-[https://output.png](https://output.png)
+<img src="output.png" alt="Program Output" width="100%">
 
 ## Requirements
 
